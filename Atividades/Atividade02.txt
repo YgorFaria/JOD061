@@ -1,7 +1,7 @@
 1. Realizar uma pesquisa sobre jogos multiplayer escolhendo um jogo para elaborar uma ficha técnica contendo as seguintes informações.
 
-a) Nomo do jogo
-b) Classificação: Local ou Online
-c) Arquitetura: Cliente-Servidor ou Ponto-a-Ponto
-d) Quantidade de jogadores po sessão.
-e) Problemas comuns do jogo.
+a) Nomo do jogo: Team Fortress 2 (First Person Shooter)
+b) Classificação: Online
+c) Arquitetura: Cliente-Servidor
+d) Quantidade de jogadores por sessão: Nos servidores casuais, são capazes de suportar até 22 jogadores por sala, duas equipes de 11. Esse jogo te dá a opção de você alugar seu próprio servidor, podendo mudar as configurações e aumentar o limite para até 34 pessoas
+e) Problemas comuns do jogo: possui uma má administração e supervisão dos desenvolvedores, sendo um jogo alvo de vários programas de cheats para burlar os códigos, como o uso de aimbots e até mesmo cheats que desestabilizam os servidores, resultando em quedas de FPS e aumento drástico do PING 
