@@ -1,0 +1,7 @@
+1. Realizar uma pesquisa sobre jogos multiplayer escolhendo um jogo para elaborar uma ficha técnica contendo as seguintes informações.
+
+a) Nomo do jogo: Team Fortress 2 (First Person Shooter)
+b) Classificação: Online
+c) Arquitetura: Cliente-Servidor
+d) Quantidade de jogadores por sessão: Nos servidores casuais, são capazes de suportar até 22 jogadores por sala. Você também pode alugar um servidor, podendo alterar as configurações e aumentar o limite para até 34 jogadores.
+e) Problemas comuns do jogo: Esse jogo possui uma péssima administração e supervisão dos seus desenvolvedores, devido a isso é muito comum a prática abusiva de cheats que burlam o jogo, diminuindo seu fps, aumentando drasticamente seu ping e em casos mais extremos até mesmo derrubam os servidores do jogo, o tornando injogável
